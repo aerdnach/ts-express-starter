@@ -1,2 +1,2 @@
 # ts-express-starter
-a starte for an express app with typescript
+a starter for an express app with typescript
